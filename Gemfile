@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'poltergeist'
+gem 'poltergeist', '~> 1.14.0'
 
 gem 'pry'
 gem 'pry-nav'
